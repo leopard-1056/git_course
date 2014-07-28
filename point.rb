@@ -6,6 +6,6 @@ class Point
   end
 
   def area
-    0
+    @x * @y
   end
 end
